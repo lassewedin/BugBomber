@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyAfterEffects.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bomb.cs" Line="78" Column="3" />
+      <File FileName="Assets\Scripts\Tile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlockRedExplode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlockTough.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rifle.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\DestroyParticleSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyAfterEffects.cs" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="22" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Unity\BugBomber_150713\Assets\Scripts\LevelManager.cs" line="195" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
